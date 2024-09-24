@@ -1,3 +1,3 @@
-# how to lerning Github for me 
+# how to learning Github for me 
 ## whoami
 #### am shasec!!!
